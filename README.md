@@ -1,7 +1,8 @@
 # EMBER & THYME — Night-Market Wok Kitchen
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/best-cooking-game-20261125-0137)
-[![status](https://img.shields.io/badge/status-READY--HELD-green)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/cashbags/makefun-best-cooking-game/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/cashbags/makefun-best-cooking-game/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 **EMBER & THYME** is an original night-market cooking game: run a wok stall through a 3-day festival — **12 recipes, 6 stations, 18 ingredients, 3 rushes a day, 5 customer types**, combo scoring and day progression. Built for the [make.fun best cooking game bounty](https://make.fun/c/best-cooking-game-20261125-0137?ref=qrg7fvky).
